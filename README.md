@@ -1,8 +1,6 @@
-# ProShop eCommerce Platform
+# TovutiGroup eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
-
-This is the course project for my [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
 ![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
 
@@ -23,13 +21,12 @@ This is the course project for my [MERN eCommerce From Scratch](https://www.udem
 - Database seeder (products & users)
 
 ## Note on Issues
-Please do not post issues here that are related to your own code when taking the course. Add those in the Udemy Q/A. If you clone THIS repo and there are issues, then you can submit
 
 ## Usage
 
 ### ES Modules in Node
 
-We us ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
+I used ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag.
 
 Also, when importing a file (not a package), be sure to add .js at the end or you will get a "module not found" error
 
@@ -100,12 +97,11 @@ jane@example.com (Customer)
 123456
 ```
 
-
 ## License
 
 The MIT License
 
-Copyright (c) 2020 Traversy Media https://traversymedia.com
+Copyright (c) 2021 Demabio Media demabio91@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
